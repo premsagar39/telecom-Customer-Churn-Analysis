@@ -1,4 +1,4 @@
-# Telco-Customer-Churn-Analysis
+# telecom-Customer-Churn-Analysis
 # Customer Churn Analysis Using Python
 
 ## 📌 Project Overview
